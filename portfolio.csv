@@ -1,0 +1,6 @@
+PortfolioID,CustomerID,AssetType,Value,RiskLevel
+201,1,Equity,20000.0,High
+202,2,Bond,50000.0,Low
+203,3,Mutual Fund,12000.0,Medium
+204,4,Equity,35000.0,High
+205,5,Bond,15000.0,Low
